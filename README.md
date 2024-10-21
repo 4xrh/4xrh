@@ -1,16 +1,12 @@
-## Hi there 👋
+<div style="display: flex; align-items: center;">
+    <img src="https://i.pinimg.com/564x/e0/dd/26/e0dd26d9af7c010a7abdc6d1a5b1c0b7.jpg" width="147" style="margin-right: 10px;"/>
+    <a href="https://t.me/staff">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=t.me/staff" alt="Typing SVG"/>
+    </a>
+</div>
 
-<!--
-**4xrh/4xrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+dc   $  @asheboou
+sv   $  @10
+tg   $  @staff
+```
